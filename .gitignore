@@ -1,0 +1,12 @@
+.idea
+venv
+*.iml
+
+infra/.terraform
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
+infra/terraform.tfstate.backup
+infra/authorized_key.json
+infra/**/*.zip
+infra/**/*.jar
+infra/**/target/
